@@ -12,3 +12,17 @@ C:\Users\Alichn\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\Con
 C:\Users\Alichn\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.dll
 C:\Users\Alichn\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.pdb
 C:\Users\Alichn\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.genruntimeconfig.cache
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.exe
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.deps.json
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.json
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfo.cs
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.dll
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.pdb
+C:\Users\Cashloans\OneDrive\Desktop\Homework-25may\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.genruntimeconfig.cache
